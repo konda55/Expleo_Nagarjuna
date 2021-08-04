@@ -1,0 +1,12 @@
+Below are the planned Test Cases:
+
+1) Click on Delete button and Verify the URL
+2) Click on edit button and Verify the URL
+3) Verify the Size of the table
+4) Verify the header title 
+6) Verify the header paragraph
+7) Verify the Table Header
+8) Verify the Table Data
+9) Verify the number of buttons on the left pane and Click on them
+10) Click on the link at the bottom of the page.
+
