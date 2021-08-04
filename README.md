@@ -4,6 +4,7 @@ Expleo assignment implemented using Selenium, BDD Framework, Java and Maven
 It uses Selenium, Cucumber, JUnit and Maven.
 
 Set up
+
 Install Chrome and Gecko drivers
 Install Java 8
 Install Maven locally to run from command line
