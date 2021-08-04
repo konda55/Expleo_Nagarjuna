@@ -1,4 +1,4 @@
-#Expleo_NAgarjuna
+#Expleo_Nagarjuna
 
 Expleo assignment implemented using Selenium, BDD Framework, Java and Maven
 It uses Selenium, Cucumber, JUnit and Maven.
